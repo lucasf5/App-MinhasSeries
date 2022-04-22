@@ -34,7 +34,7 @@ const EditarSeries = () => {
 
     const BackgroundDiv = styled.div`
     background: url(${obj["poster"]});
-    width: 40vw;
+    width: 25vw;
     height: 600px;
     background-size: cover;
     background-position: center;

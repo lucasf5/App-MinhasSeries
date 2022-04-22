@@ -1,5 +1,30 @@
 {
-  "series": {},
+  "series": {
+    "1650635092249": {
+      "name": "Dark",
+      "status": "Assistido",
+      "genre_id": "Suspense",
+      "comments": "Uma série netflix",
+      "poster": "//image.tmdb.org/t/p/original/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg",
+      "background": "//image.tmdb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg"
+    },
+    "1650635109679": {
+      "name": "Sabrina",
+      "status": "Para assistir",
+      "genre_id": "Suspense",
+      "comments": "Uma série netflix",
+      "poster": "//image.tmdb.org/t/p/original/8vvgKw3DbEPNlJAdHe7xXzhb2gN.jpg",
+      "background": "//image.tmdb.org/t/p/original/p1mr2xCu4VSl7y41wDOV3swGQJf.jpg"
+    },
+    "1650635189691": {
+      "name": "Um de Nos Esta Mentindo",
+      "status": "Para assistir",
+      "genre_id": "Suspense",
+      "comments": "Uma série netflix",
+      "poster": "//image.tmdb.org/t/p/original/230YUc1F1WNG0223iplyjR79Pm8.jpg",
+      "background": "//image.tmdb.org/t/p/original/yVZESlkDTihnGB0qa9MLWCop9Xf.jpg"
+    }
+  },
   "genres": {
     "1650575524388": {
       "name": "Suspense"
